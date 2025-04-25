@@ -1,0 +1,14 @@
+Peppa Pig
+300 000
+George Pig
+200 400
+Daddy Pig
+400 000
+Mummy Pig
+100 500
+Suzy Sheep
+300 000
+Rebecca Rabbit
+100 000
+Pedro Pony
+400 100
